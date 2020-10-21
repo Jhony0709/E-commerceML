@@ -1,0 +1,22 @@
+.home {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 95vh;
+    justify-content: center;
+    overflow: hidden;
+    width: 99vw;
+
+    h1 {
+        color: $text--color-dark;
+        font-size: 50px;
+        font-weight: 400;
+        margin: 20px 0 0;
+    }
+
+    p {
+        color: $text--color-medium;
+        font-size: 25px;
+        font-weight: 400;
+    }
+}

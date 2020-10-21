@@ -1,0 +1,61 @@
+{
+    "author": {
+        "name": "Jhony",
+        "lastname": "Quiñones"
+    },
+    "categories": [
+        "Electrónica, Audio y Video",
+        "Audio",
+        "Reproductores Portátiles"
+    ],
+    "items": [
+        {
+            "id": "MLA881079263",
+            "title": "Parlante Gadnic Live Studio Xbs10 Portátil Con Bluetooth Negro",
+            "price": {
+                "currency": "ARS",
+                "amount": "6499",
+                "decimals": null
+            },
+            "picture": "http://http2.mlstatic.com/D_646419-MLA40819548856_022020-I.jpg",
+            "condition": "new",
+            "free_shipping": true
+        },
+        {
+            "id": "MLA852267815",
+            "title": "Modulo Usb Mp3 Bluetooth (incluye Control Remoto Con Pila)",
+            "price": {
+                "currency": "ARS",
+                "amount": "1350",
+                "decimals": null
+            },
+            "picture": "http://http2.mlstatic.com/D_974826-MLA43523253736_092020-I.jpg",
+            "condition": "new",
+            "free_shipping": false
+        },
+        {
+            "id": "MLA659284916",
+            "title": "Reproductor Mp3 Bluetooth Radio Recargable Microsd Fitness",
+            "price": {
+                "currency": "ARS",
+                "amount": "5999",
+                "decimals": null
+            },
+            "picture": "http://http2.mlstatic.com/D_945263-MLA32696619677_102019-O.jpg",
+            "condition": "new",
+            "free_shipping": true
+        },
+        {
+            "id": "MLA869228605",
+            "title": "Reproductor Mp3 Lcd Energy Sistem Radio Fm Microsd Clip 8gb",
+            "price": {
+                "currency": "ARS",
+                "amount": "4499",
+                "decimals": "99"
+            },
+            "picture": "http://http2.mlstatic.com/D_702264-MLA42770293357_072020-O.jpg",
+            "condition": "new",
+            "free_shipping": true
+        }
+    ]
+}

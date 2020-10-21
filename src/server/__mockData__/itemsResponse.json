@@ -1,0 +1,804 @@
+{
+    "results": [
+        {
+            "id": "MLA881079263",
+            "site_id": "MLA",
+            "title": "Parlante Gadnic Live Studio Xbs10 Portátil Con Bluetooth Negro",
+            "seller": {
+                "id": 37133205,
+                "permalink": "http://perfil.mercadolibre.com.ar/SALES+COM",
+                "registration_date": "2003-12-15T16:01:17.000-04:00",
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": [
+                    "brand",
+                    "user_info_verified",
+                    "large_seller",
+                    "eshop",
+                    "developer",
+                    "credits_profile",
+                    "messages_as_seller",
+                    "messages_as_buyer"
+                ],
+                "eshop": {
+                    "nick_name": "SALES COM",
+                    "eshop_rubro": null,
+                    "eshop_id": 36233,
+                    "eshop_locations": [],
+                    "site_id": "MLA",
+                    "eshop_logo_url": "http://resources.mlstatic.com/eshops/37133205v1c42aa.png",
+                    "eshop_status_id": 1,
+                    "seller": 37133205,
+                    "eshop_experience": 0
+                },
+                "seller_reputation": {
+                    "transactions": {
+                        "total": 130670,
+                        "canceled": 8276,
+                        "period": "historic",
+                        "ratings": {
+                            "negative": 0.02,
+                            "positive": 0.97,
+                            "neutral": 0.01
+                        },
+                        "completed": 122394
+                    },
+                    "power_seller_status": "platinum",
+                    "metrics": {
+                        "claims": {
+                            "rate": 0.0102,
+                            "value": 291,
+                            "period": "60 days"
+                        },
+                        "delayed_handling_time": {
+                            "rate": 0.0159,
+                            "value": 427,
+                            "period": "60 days"
+                        },
+                        "sales": {
+                            "period": "60 days",
+                            "completed": 27291
+                        },
+                        "cancellations": {
+                            "rate": 0.0041,
+                            "value": 118,
+                            "period": "60 days"
+                        }
+                    },
+                    "level_id": "5_green"
+                }
+            },
+            "price": 6499,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "ARS",
+            "available_quantity": 4996,
+            "sold_quantity": 2,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_special",
+            "stop_time": "2040-09-22T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://www.mercadolibre.com.ar/parlante-gadnic-live-studio-xbs10-portatil-con-bluetooth-negro/p/MLA15242699",
+            "thumbnail": "http://http2.mlstatic.com/D_646419-MLA40819548856_022020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 921.61,
+                "rate": 70.17,
+                "currency_id": "ARS"
+            },
+            "address": {
+                "state_id": "AR-C",
+                "state_name": "Capital Federal",
+                "city_id": null,
+                "city_name": "Villa Ortúzar"
+            },
+            "shipping": {
+                "free_shipping": true,
+                "mode": "me2",
+                "tags": [
+                    "self_service_in",
+                    "mandatory_free_shipping"
+                ],
+                "logistic_type": "cross_docking",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "AR",
+                    "name": "Argentina"
+                },
+                "state": {
+                    "id": "AR-C",
+                    "name": "Capital Federal"
+                },
+                "city": {
+                    "id": null,
+                    "name": "Villa Ortúzar"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_id": "7866512",
+                    "value_name": "PARL0010",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "name": "PARL0010",
+                            "struct": null,
+                            "source": 1,
+                            "id": "7866512"
+                        }
+                    ],
+                    "attribute_group_name": "Otros",
+                    "id": "ALPHANUMERIC_MODEL",
+                    "name": "Modelo alfanumérico",
+                    "attribute_group_id": "OTHERS",
+                    "source": 1
+                },
+                {
+                    "value_name": "Gadnic",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "struct": null,
+                            "source": 1,
+                            "id": "410974",
+                            "name": "Gadnic"
+                        }
+                    ],
+                    "source": 1,
+                    "attribute_group_name": "Otros",
+                    "id": "BRAND",
+                    "name": "Marca",
+                    "value_id": "410974",
+                    "attribute_group_id": "OTHERS"
+                },
+                {
+                    "value_name": "Nuevo",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "source": 1572,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condición del ítem",
+                    "value_id": "2230284",
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 1572
+                        }
+                    ]
+                },
+                {
+                    "value_id": "6080362",
+                    "value_name": "Live Studio",
+                    "values": [
+                        {
+                            "id": "6080362",
+                            "name": "Live Studio",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "source": 1,
+                    "id": "LINE",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "name": "Línea"
+                },
+                {
+                    "id": "MODEL",
+                    "name": "Modelo",
+                    "value_id": "7866513",
+                    "attribute_group_id": "OTHERS",
+                    "source": 1,
+                    "value_name": "XBS10",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "name": "XBS10",
+                            "struct": null,
+                            "source": 1,
+                            "id": "7866513"
+                        }
+                    ],
+                    "attribute_group_name": "Otros"
+                }
+            ],
+            "original_price": null,
+            "category_id": "MLA8618",
+            "official_store_id": 945,
+            "domain_id": "MLA-SPEAKERS",
+            "catalog_product_id": "MLA15242699",
+            "tags": [
+                "brand_verified",
+                "good_quality_picture",
+                "loyalty_discount_eligible",
+                "immediate_payment",
+                "cart_eligible",
+                "shipping_guaranteed",
+                "best_seller_candidate"
+            ],
+            "catalog_listing": true,
+            "order_backend": 1
+        },
+        {
+            "id": "MLA852267815",
+            "site_id": "MLA",
+            "title": "Modulo Usb Mp3 Bluetooth (incluye Control Remoto Con Pila)",
+            "seller": {
+                "id": 169949346,
+                "permalink": "http://perfil.mercadolibre.com.ar/MARIMON+ELECTRONICA",
+                "registration_date": "2014-10-31T09:11:52.000-04:00",
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": [
+                    "normal",
+                    "user_info_verified",
+                    "credits_priority_4",
+                    "credits_profile",
+                    "mshops",
+                    "messages_as_seller",
+                    "messages_as_buyer"
+                ],
+                "seller_reputation": {
+                    "transactions": {
+                        "total": 17808,
+                        "canceled": 734,
+                        "period": "historic",
+                        "ratings": {
+                            "negative": 0.01,
+                            "positive": 0.98,
+                            "neutral": 0.01
+                        },
+                        "completed": 17074
+                    },
+                    "power_seller_status": "platinum",
+                    "metrics": {
+                        "claims": {
+                            "rate": 0.0077,
+                            "value": 27,
+                            "period": "60 days"
+                        },
+                        "delayed_handling_time": {
+                            "rate": 0,
+                            "value": 0,
+                            "period": "60 days"
+                        },
+                        "sales": {
+                            "period": "60 days",
+                            "completed": 3366
+                        },
+                        "cancellations": {
+                            "rate": 0.0017,
+                            "value": 6,
+                            "period": "60 days"
+                        }
+                    },
+                    "level_id": "5_green"
+                }
+            },
+            "price": 1350,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "ARS",
+            "available_quantity": 50,
+            "sold_quantity": 500,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_special",
+            "stop_time": "2040-04-24T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.ar/MLA-852267815-modulo-usb-mp3-bluetooth-incluye-control-remoto-con-pila-_JM",
+            "thumbnail": "http://http2.mlstatic.com/D_974826-MLA43523253736_092020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 191.44,
+                "rate": 70.17,
+                "currency_id": "ARS"
+            },
+            "address": {
+                "state_id": "AR-B",
+                "state_name": "Buenos Aires",
+                "city_id": null,
+                "city_name": "Lomas De Zamora"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "cross_docking",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "AR",
+                    "name": "Argentina"
+                },
+                "state": {
+                    "id": "AR-B",
+                    "name": "Buenos Aires"
+                },
+                "city": {
+                    "id": null,
+                    "name": "Lomas De Zamora"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "struct": null,
+                            "source": 6808261514773724,
+                            "id": null,
+                            "name": "Tobax"
+                        }
+                    ],
+                    "attribute_group_name": "Otros",
+                    "source": 6808261514773724,
+                    "id": "BRAND",
+                    "value_id": null,
+                    "value_name": "Tobax",
+                    "name": "Marca",
+                    "attribute_group_id": "OTHERS"
+                },
+                {
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 6808261514773724,
+                            "id": "2230284"
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "value_name": "Nuevo",
+                    "name": "Condición del ítem",
+                    "value_id": "2230284",
+                    "attribute_group_name": "Otros",
+                    "source": 6808261514773724,
+                    "id": "ITEM_CONDITION"
+                }
+            ],
+            "original_price": null,
+            "category_id": "MLA2860",
+            "official_store_id": null,
+            "domain_id": "MLA-ELECTRONIC_PRODUCTS",
+            "catalog_product_id": null,
+            "tags": [
+                "loyalty_discount_eligible",
+                "brand_verified",
+                "good_quality_picture",
+                "good_quality_thumbnail",
+                "immediate_payment",
+                "cart_eligible",
+                "shipping_guaranteed"
+            ],
+            "order_backend": 2
+        },
+        {
+            "id": "MLA659284916",
+            "site_id": "MLA",
+            "title": "Reproductor Mp3 Bluetooth Radio Recargable Microsd Fitness",
+            "seller": {
+                "id": 47316577,
+                "permalink": "http://perfil.mercadolibre.com.ar/PLANETAZENOK",
+                "registration_date": "2008-03-26T09:48:55.000-04:00",
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": [
+                    "normal",
+                    "user_info_verified",
+                    "eshop",
+                    "medium_seller",
+                    "mshops",
+                    "credits_profile",
+                    "messages_as_seller",
+                    "messages_as_buyer"
+                ],
+                "eshop": {
+                    "nick_name": "PLANETAZENOK",
+                    "eshop_rubro": null,
+                    "eshop_id": 45723,
+                    "eshop_locations": [],
+                    "site_id": "MLA",
+                    "eshop_logo_url": "http://resources.mlstatic.com/eshops/47316577v67a25d.png",
+                    "eshop_status_id": 1,
+                    "seller": 47316577,
+                    "eshop_experience": 0
+                },
+                "seller_reputation": {
+                    "transactions": {
+                        "total": 87397,
+                        "canceled": 5400,
+                        "period": "historic",
+                        "ratings": {
+                            "negative": 0.02,
+                            "positive": 0.96,
+                            "neutral": 0.02
+                        },
+                        "completed": 81997
+                    },
+                    "power_seller_status": "platinum",
+                    "metrics": {
+                        "claims": {
+                            "rate": 0.0144,
+                            "value": 263,
+                            "period": "60 days"
+                        },
+                        "delayed_handling_time": {
+                            "rate": 0.0128,
+                            "value": 222,
+                            "period": "60 days"
+                        },
+                        "sales": {
+                            "period": "60 days",
+                            "completed": 17382
+                        },
+                        "cancellations": {
+                            "rate": 0.0079,
+                            "value": 146,
+                            "period": "60 days"
+                        }
+                    },
+                    "level_id": "5_green"
+                }
+            },
+            "price": 5999,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "ARS",
+            "available_quantity": 100,
+            "sold_quantity": 500,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_special",
+            "stop_time": "2037-03-18T20:41:28.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.ar/MLA-659284916-reproductor-mp3-bluetooth-radio-recargable-microsd-fitness-_JM",
+            "thumbnail": "http://http2.mlstatic.com/D_945263-MLA32696619677_102019-O.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 850.71,
+                "rate": 70.17,
+                "currency_id": "ARS"
+            },
+            "address": {
+                "state_id": "AR-C",
+                "state_name": "Capital Federal",
+                "city_id": null,
+                "city_name": "Almagro"
+            },
+            "shipping": {
+                "free_shipping": true,
+                "mode": "me2",
+                "tags": [
+                    "self_service_in",
+                    "mandatory_free_shipping"
+                ],
+                "logistic_type": "cross_docking",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "AR",
+                    "name": "Argentina"
+                },
+                "state": {
+                    "id": "AR-C",
+                    "name": "Capital Federal"
+                },
+                "city": {
+                    "id": null,
+                    "name": "Almagro"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "values": [
+                        {
+                            "source": 510278957040621,
+                            "id": "113095",
+                            "name": "Energy Sistem",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_name": "Otros",
+                    "name": "Marca",
+                    "value_id": "113095",
+                    "value_name": "Energy Sistem",
+                    "value_struct": null,
+                    "id": "BRAND",
+                    "attribute_group_id": "OTHERS",
+                    "source": 510278957040621
+                },
+                {
+                    "name": "Condición del ítem",
+                    "value_name": "Nuevo",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "source": 1,
+                    "id": "ITEM_CONDITION",
+                    "value_id": "2230284",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros"
+                },
+                {
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "426508 426492",
+                            "struct": null,
+                            "source": 1577
+                        }
+                    ],
+                    "attribute_group_name": "Otros",
+                    "source": 1577,
+                    "id": "MODEL",
+                    "name": "Modelo",
+                    "attribute_group_id": "OTHERS",
+                    "value_id": null,
+                    "value_name": "426508 426492"
+                }
+            ],
+            "original_price": null,
+            "category_id": "MLA5991",
+            "official_store_id": null,
+            "domain_id": "MLA-DIGITAL_PORTABLE_MEDIA_PLAYERS",
+            "catalog_product_id": null,
+            "tags": [
+                "loyalty_discount_eligible",
+                "brand_verified",
+                "good_quality_picture",
+                "good_quality_thumbnail",
+                "immediate_payment",
+                "cart_eligible",
+                "shipping_guaranteed",
+                "best_seller_candidate"
+            ],
+            "order_backend": 3
+        },
+        {
+            "id": "MLA869228605",
+            "site_id": "MLA",
+            "title": "Reproductor Mp3 Lcd Energy Sistem Radio Fm Microsd Clip 8gb",
+            "seller": {
+                "id": 45059170,
+                "permalink": "http://perfil.mercadolibre.com.ar/EC-ELECTRONICA",
+                "registration_date": "2008-02-20T18:32:54.000-04:00",
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": [
+                    "normal",
+                    "user_info_verified",
+                    "eshop",
+                    "mshops",
+                    "medium_seller",
+                    "credits_profile",
+                    "messages_as_seller",
+                    "messages_as_buyer"
+                ],
+                "eshop": {
+                    "nick_name": "EC-ELECTRONICA",
+                    "eshop_rubro": null,
+                    "eshop_id": 134593,
+                    "eshop_locations": [],
+                    "site_id": "MLA",
+                    "eshop_logo_url": "http://resources.mlstatic.com/eshops/45059170v908fde.png",
+                    "eshop_status_id": 1,
+                    "seller": 45059170,
+                    "eshop_experience": 0
+                },
+                "seller_reputation": {
+                    "transactions": {
+                        "total": 6994,
+                        "canceled": 604,
+                        "period": "historic",
+                        "ratings": {
+                            "negative": 0.01,
+                            "positive": 0.99,
+                            "neutral": 0
+                        },
+                        "completed": 6390
+                    },
+                    "power_seller_status": "platinum",
+                    "metrics": {
+                        "claims": {
+                            "rate": 0.0129,
+                            "value": 19,
+                            "period": "60 days"
+                        },
+                        "delayed_handling_time": {
+                            "rate": 0,
+                            "value": 0,
+                            "period": "60 days"
+                        },
+                        "sales": {
+                            "period": "60 days",
+                            "completed": 1380
+                        },
+                        "cancellations": {
+                            "rate": 0.0054,
+                            "value": 8,
+                            "period": "60 days"
+                        }
+                    },
+                    "level_id": "5_green"
+                }
+            },
+            "price": 4499.99,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "ARS",
+            "available_quantity": 1,
+            "sold_quantity": 25,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_special",
+            "stop_time": "2040-07-15T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.ar/MLA-869228605-reproductor-mp3-lcd-energy-sistem-radio-fm-microsd-clip-8gb-_JM",
+            "thumbnail": "http://http2.mlstatic.com/D_702264-MLA42770293357_072020-O.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 638,
+                "rate": 70.17,
+                "currency_id": "ARS"
+            },
+            "address": {
+                "state_id": "AR-B",
+                "state_name": "Buenos Aires",
+                "city_id": null,
+                "city_name": "Ituzaingo"
+            },
+            "shipping": {
+                "free_shipping": true,
+                "mode": "me2",
+                "tags": [
+                    "self_service_in",
+                    "mandatory_free_shipping"
+                ],
+                "logistic_type": "cross_docking",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "AR",
+                    "name": "Argentina"
+                },
+                "state": {
+                    "id": "AR-B",
+                    "name": "Buenos Aires"
+                },
+                "city": {
+                    "id": null,
+                    "name": "Ituzaingo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_struct": null,
+                    "source": 3045741222775799,
+                    "values": [
+                        {
+                            "id": "113095",
+                            "name": "Energy Sistem",
+                            "struct": null,
+                            "source": 3045741222775799
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "id": "BRAND",
+                    "name": "Marca",
+                    "value_id": "113095",
+                    "value_name": "Energy Sistem"
+                },
+                {
+                    "id": "ITEM_CONDITION",
+                    "name": "Condición del ítem",
+                    "value_id": "2230284",
+                    "value_struct": null,
+                    "source": 3045741222775799,
+                    "value_name": "Nuevo",
+                    "values": [
+                        {
+                            "source": 3045741222775799,
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros"
+                },
+                {
+                    "name": "Modelo",
+                    "value_name": "Clip",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "19393",
+                            "name": "Clip",
+                            "struct": null,
+                            "source": 3045741222775799
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "source": 3045741222775799,
+                    "id": "MODEL",
+                    "value_id": "19393"
+                }
+            ],
+            "original_price": null,
+            "category_id": "MLA5991",
+            "official_store_id": null,
+            "domain_id": "MLA-DIGITAL_PORTABLE_MEDIA_PLAYERS",
+            "catalog_product_id": "MLA13572382",
+            "tags": [
+                "brand_verified",
+                "good_quality_picture",
+                "good_quality_thumbnail",
+                "loyalty_discount_eligible",
+                "immediate_payment",
+                "cart_eligible",
+                "shipping_guaranteed",
+                "best_seller_candidate"
+            ],
+            "order_backend": 4
+        }
+    ],
+    "filters": [
+        {
+            "id": "MLA1000",
+            "name": "Electrónica, Audio y Video"
+        },
+        {
+            "id": "MLA409810",
+            "name": "Audio"
+        },
+        {
+            "id": "MLA431428",
+            "name": "Reproductores Portátiles"
+        }
+    ]
+}

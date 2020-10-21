@@ -1,0 +1,27 @@
+.breadcrumb {
+    color: $text--color-medium;
+    display: inherit;
+    font-size: 14px;
+    justify-content: center;
+    padding: 16px 0;
+    width: 100%;
+
+    ul {
+        display: inherit;
+        margin: 0;
+        padding: 0 14px;
+        width: 100%;
+
+        li {
+            display: inherit;
+            list-style: none;
+            padding-left: 16px;
+
+            &:not(:first-child):before {
+                content: '\203a';
+                left: -8px;
+                position: relative;
+            }
+        }
+    }
+}

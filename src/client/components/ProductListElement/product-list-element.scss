@@ -1,0 +1,46 @@
+.product-list {
+    display: inherit;
+    flex-direction: row;
+    padding: 16px 0;
+
+    &--img {
+        align-items: center;
+        border-radius: 4px;
+        display: inherit;
+        height: 180px;
+        justify-content: center;
+        padding: 0 16px;
+        text-align: center;
+        width: 180px;
+
+        img {
+            cursor: pointer;
+            max-width: 180px;
+            max-height: 180px;
+        }
+    }
+
+    &--description {
+        display: inherit;
+        flex-direction: column;
+        justify-content: center;
+
+        &-price {
+            color: $text--color-dark;
+            cursor: pointer;
+            font-size: 24px;
+            font-weight: 400;
+            margin: 0;
+            padding-bottom: 16px;
+        }
+
+        &-title {
+            color: $text--color-dark;
+            cursor: pointer;
+            font-size: 18px;
+            font-weight: 400;
+            margin: 0;
+            padding-top: 16px;
+        }
+    }
+}
